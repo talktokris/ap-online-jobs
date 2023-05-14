@@ -1,0 +1,67 @@
+[20-Dec-2022 17:54:12 UTC] PHP Warning:  require(/home/no47agyrt0nt/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/no47agyrt0nt/public_html/index.php on line 24
+[20-Dec-2022 17:54:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/no47agyrt0nt/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/no47agyrt0nt/public_html/index.php on line 24
+[20-Dec-2022 17:54:27 UTC] PHP Warning:  require(/home/no47agyrt0nt/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/no47agyrt0nt/public_html/index.php on line 24
+[20-Dec-2022 17:54:27 UTC] PHP Fatal error:  require(): Failed opening required '/home/no47agyrt0nt/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/no47agyrt0nt/public_html/index.php on line 24
+[05-Mar-2023 15:47:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit259b22ab51c523e81c3e15abb8146e91' not found in /home/no47agyrt0nt/onlinejob/vendor/autoload.php:12
+Stack trace:
+#0 /home/no47agyrt0nt/public_html/index.php(24): require()
+#1 {main}
+  thrown in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 12
+[05-Mar-2023 15:49:00 UTC] PHP Warning:  require_once(/home/no47agyrt0nt/onlinejob/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 10
+[05-Mar-2023 15:49:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/no47agyrt0nt/onlinejob/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/no47agyrt0nt/onlinejob/vendor/autoload.php on line 10
+[05-Mar-2023 16:09:32 UTC] PHP Warning:  require(/onlinejob/vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/no47agyrt0nt/onlinejob/app/Helpers.php on line 7
+[05-Mar-2023 16:09:32 UTC] PHP Fatal error:  require(): Failed opening required '/onlinejob/vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/no47agyrt0nt/onlinejob/app/Helpers.php on line 7
+[05-Mar-2023 16:09:36 UTC] PHP Warning:  require(/onlinejob/vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/no47agyrt0nt/onlinejob/app/Helpers.php on line 7
+[05-Mar-2023 16:09:36 UTC] PHP Fatal error:  require(): Failed opening required '/onlinejob/vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/no47agyrt0nt/onlinejob/app/Helpers.php on line 7
+[05-Mar-2023 16:09:40 UTC] PHP Warning:  require(/onlinejob/vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/no47agyrt0nt/onlinejob/app/Helpers.php on line 7
+[05-Mar-2023 16:09:40 UTC] PHP Fatal error:  require(): Failed opening required '/onlinejob/vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/no47agyrt0nt/onlinejob/app/Helpers.php on line 7

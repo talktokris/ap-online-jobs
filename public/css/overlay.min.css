@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+.overlay-bg {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height:100%;
+    width: 100%;
+    cursor: pointer;
+    z-index: 9999; /* high z-index */
+    background: #000; /* fallback */
+    background: rgba(0,0,0,0.75);
+}
+.overlay-content {
+    display: none;
+    background: #fff;
+    padding: 1%;
+    width: 60%;
+    position: absolute;
+    top: 5%;
+	left: 20%;
+    /*margin: 0 0 0 -20%;  add negative left margin for half the width to center the div */
+    cursor: default;
+    z-index: 10001;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.9);
+}
+
+.overlay-content img{
+    /*padding: 0 15px 15px 0;	*/
+    max-width: 100%!important;
+    height: auto!important
+}
+
+.close-btn {
+	cursor: pointer;
+	border: 1px solid #fff;
+	padding: 1% 2%;
+	background:#c4161c  ; /* fallback */
+	box-shadow: 0 0 4px rgba(0,0,0,0.3);
+	position: absolute;
+	top: -15px;
+	right: -15px;
+	border-radius: 5px;
+	color: #FFF
+	
+}
+.close-btn:hover {
+	background: #053f88 ;
+}
+
+.overlay-content .title {
+    text-align: center;
+    color: red;
+}
+
+/* media query for most mobile devices */
+@media only screen and (max-width: 480px){
+
+    .overlay-content {
+        width: 88%;
+        margin: 0 6%;
+        left: 0;
+    }
+}
